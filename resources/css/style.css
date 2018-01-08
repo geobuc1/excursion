@@ -1,0 +1,26 @@
+
+#body {
+background-color: black;
+
+}
+
+
+
+#mainHeader {
+display:block;
+font-family: verdana;
+font-weight: normal;
+font-size: 50px;
+color: white;
+text-align: center;
+
+}
+
+.link {
+display:block;
+color:aquamarine;
+font-size: 16px;
+text-align: center;
+
+  
+}
