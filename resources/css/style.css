@@ -1,18 +1,23 @@
 
 #body {
 background-color: black;
+text-align:center;
+color: white;
 
 }
-
-
 
 #mainHeader {
 display:block;
 font-family: verdana;
 font-weight: normal;
 font-size: 50px;
-color: white;
-text-align: center;
+}
+
+
+#subHeader {
+font-family:verdana;
+font-weight: 300;
+font-size: 42px;
 
 }
 
@@ -20,7 +25,20 @@ text-align: center;
 display:block;
 color:aquamarine;
 font-size: 16px;
-text-align: center;
 
-  
+
+}
+
+#description {
+font-family:verdana;
+font-size: 21px;
+color:grey;
+
+}
+
+#copySymbol {
+text-align: right;
+color:grey;
+font-family: verdana;
+
 }
